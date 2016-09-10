@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1471745473 source:c:\users\brad\documents\functionpointers\main.cpp
+	<iostream>
+	"Var.h"
+
+1471732718 source:c:\users\brad\documents\functionpointers\src\var.cpp
+	"Var.h"
+
+1471749836 c:\users\brad\documents\functionpointers\include\var.h
+	<iostream>
+	<string>
+
